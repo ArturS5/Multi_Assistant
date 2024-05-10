@@ -1,10 +1,10 @@
 import logging
 from telebot import TeleBot
-from validators_f import *  # модуль для валидации
-from yandex_gpt_f import *  # модуль для работы с GPT
-from config_f import *      # подтягиваем константы из config файла
-from database_f import *    # create_database, add_message, select_n_last_messages
-from speechkit_f import *   # text_to_speech, speech_to_text
+from validatorsf import *  # модуль для валидации
+from yandex_gptf import *  # модуль для работы с GPT
+from configf import *      # подтягиваем константы из config файла
+from databasef import *    # create_database, add_message, select_n_last_messages
+from speechkitf import *   # text_to_speech, speech_to_text
 
 logging.basicConfig(
     level=logging.INFO,
