@@ -1,4 +1,4 @@
-TOKEN = ""  # token телеграм-бота
+TOKEN = "7083933588:AAG1u27GGEeIXWmN0CxW9EaEJX94FMQYPUM"  # token телеграм-бота
 
 FOLDER_ID=''
 IAM_TOKEN=''
