@@ -1,6 +1,6 @@
 import sqlite3
 import logging  # модуль для сбора логов
-from config_f import * #LOGS, DB_FILE
+from configf import * #LOGS, DB_FILE
 
 # настраиваем запись логов в файл
 logging.basicConfig(
