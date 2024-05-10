@@ -1,5 +1,5 @@
 import requests
-from configf import * #IAM_TOKEN, FOLDER_ID
+from config_f import * #IAM_TOKEN, FOLDER_ID
 
 
 def text_to_speech(text):
